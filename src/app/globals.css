@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --azul-oscuro: #06122d;
+  --verde-oscuro: #1c594e;
+}
+
+.contenedorSideBarYChildren {
+  display: flex;
+  max-width: 100vw;
+  background-color: var(--verde-oscuro);
+}
+
+.layoutTareas {
+  background-color: rgb(248 113 113);
+  text-align: center;
+}
+
+.displayFlex {
+  display: flex;
+}
+
+.displayBlock {
+  display: block;
+}

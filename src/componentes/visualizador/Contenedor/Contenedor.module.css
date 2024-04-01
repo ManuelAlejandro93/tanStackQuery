@@ -1,0 +1,13 @@
+.ContenedorVisualizador {
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 900px;
+  min-height: min-content;
+  max-height: fit-content;
+  border: #111827 solid 2px;
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  row-gap: 20px;
+}

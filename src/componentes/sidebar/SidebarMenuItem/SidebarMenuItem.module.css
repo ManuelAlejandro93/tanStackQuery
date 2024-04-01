@@ -1,0 +1,42 @@
+.SidebarMenuItemLink1 {
+  display: inline-flex;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  margin-left: 0.5rem;
+  align-items: center;
+  border-bottom-width: 1px;
+  width: 100%;
+  transition-duration: 300ms;
+  transition-duration: 150ms;
+  transition-timing-function: linear;
+  text-decoration: none;
+  color: white;
+}
+
+.SidebarMenuItemLink1:hover {
+  color: #3b82f6;
+}
+
+.SidebarMenuItemDiv1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.SidebarMenuItemSpan1 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  line-height: 1.25rem;
+  color: #ffffff;
+}
+
+.SidebarMenuItemSpan2 {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.iconSideBar {
+  background-color: transparent;
+}

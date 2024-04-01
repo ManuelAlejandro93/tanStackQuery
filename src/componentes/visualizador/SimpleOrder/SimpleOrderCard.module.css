@@ -1,0 +1,24 @@
+.singleCard {
+  background-color: #06122d;
+  width: 180px;
+  height: 90px;
+  border-radius: 22px;
+  border: #06122d solid 2px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.simpleOrderCardButton {
+  color: white;
+  text-decoration: none;
+  background-color: #06122d;
+  border-color: transparent;
+  width: 100%;
+}
+
+.simpleOrderCardButton:hover {
+  color: #3b82f6;
+}

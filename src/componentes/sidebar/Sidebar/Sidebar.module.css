@@ -1,0 +1,77 @@
+.SidebarDiv1 {
+  overflow-y: scroll;
+  left: 0;
+  z-index: 10;
+  width: 16rem;
+  min-height: 100vh;
+  background-color: #111827;
+}
+
+.SidebarDiv2 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.SidebarH11 {
+  display: flex;
+  align-items: center;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.IoLogoReact1 {
+  margin-right: 0.5rem;
+}
+
+.SidebarSpan1 {
+  color: #3b82f6;
+}
+
+.SidebarP1 {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: white;
+}
+
+.SidebarDiv3 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  color: #1858be;
+}
+
+.SidebarP2 {
+  display: inline-flex;
+  margin-left: 0.5rem;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+}
+
+.SidebarImage1 {
+  border-radius: 9999px;
+  width: 2rem;
+  height: 2rem;
+}
+
+.SidebarSpan2 {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+.SidebarDiv4 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  width: 100%;
+}
+
+.spanContenedorDePerfil {
+  margin-top: 10px;
+}
